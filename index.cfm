@@ -39,62 +39,7 @@
 					<div class="space"></div>
 					
 					
-					<div class="row">
-						<div class="col-xs-6 col-sm-3 pricing-box">
-							<button class="btn btn-default btn-circle btn-success btn-lg">
-								<i class="icon-thumbs-up bigger-300"></i>
-								<br>
-								<strong style="font-size:25px">SIMPLE</strong> <span style="font-size:25px" class="lighter">& EASY</span>
-								<br>
-								<span class="lighter" style="font-size:13px">
-								Registration<br>
-								Membership<br>
-								Floor Management
-								</span>
-							</button>
-							&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon-plus bigger-300"></i>
-						</div>
-
-						<div class="col-xs-6 col-sm-3 pricing-box">
-							<button class="btn btn-default btn-circle btn-pink btn-lg">
-								<i class="icon-check bigger-300"></i>
-								<br>
-								<strong style="font-size:25px">ONE STOP</strong><br>
-								<span style="font-size:20px" class="lighter">TOTAL SERVICE</span><br>
-								<span class="lighter" style="font-size:13px">
-								For all<br>
-								Schools & Players
-								</span><br>
-							</button>
-							&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon-plus bigger-300"></i>
-						</div>
-
-						<div class="col-xs-6 col-sm-3 pricing-box">
-							<button class="btn btn-default btn-circle btn-purple btn-lg">
-								<i class="icon-compass bigger-300"></i>
-								<br>
-								
-								<span style="font-size:25px" class="lighter">ANY</span><strong style="font-size:25px">WHERE</strong><br>
-								<span style="font-size:25px" class="lighter">ANY</span><strong style="font-size:25px">DEVICE</strong><br>
-								<span style="font-size:25px" class="lighter">ANY</span><strong style="font-size:25px">TIME</strong>
-							</button>
-							&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon-arrow-right bigger-300"></i>
-						</div>
-
-						<div class="col-xs-6 col-sm-3 pricing-box">
-							<button class="btn btn-default btn-circle btn-info btn-lg">
-								<i class="icon-cloud bigger-300"></i>
-								<br>
-								<strong style="font-size:25px">CLOUD</strong> 
-								<span style="font-size:25px" class="lighter">SYSTEM</span><br>
-								<span class="lighter" style="font-size:13px">
-								Service Oriented<br>
-								Software As A Service<br>
-								(SAAS)
-								</span>
-							</button>
-						</div>
-					</div>
+					
 					
 					
 					
