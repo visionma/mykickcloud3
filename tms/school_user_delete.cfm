@@ -1,0 +1,10 @@
+
+
+<cfquery datasource="mykickcloud" name="updateSchoolUser">
+	update school_user
+	set is_active = '2'
+	where id = '#url.id#'
+</cfquery>
+
+
+<cflocation url="School_User_inactive.cfm">
